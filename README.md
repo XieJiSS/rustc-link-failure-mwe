@@ -1,3 +1,8 @@
+Turns out this is a dup of rust-lang/rust issues #129904.
+
+<details>
+<summary>example</summary>
+
 This works:
 
 ```bash
@@ -35,3 +40,5 @@ rustc 1.91.1 (ed61e7d7e 2025-11-07)
 $ cargo --version
 cargo 1.91.1 (ea2d97820 2025-10-10)
 ```
+
+</details>
